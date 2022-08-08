@@ -7,9 +7,5 @@ main {
 }
 
 main {
-    margin-top: 24px;
-}
-
-main {
-    margin-left: auto;
+    margin: 24px auto;
 }
