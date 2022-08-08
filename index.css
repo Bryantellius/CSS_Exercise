@@ -31,7 +31,7 @@ section {
   display: inline;
 }
 
-.nav-link > ul {
+nav > ul {
   list-style: none;
 }
 
