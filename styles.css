@@ -1,11 +1,7 @@
-*{
+*{}
 
-}
+html {}
 
-html {
-
-}
-
-#nav-link {
+.nav-link {
     color: orange; text-decoration: none
 }
