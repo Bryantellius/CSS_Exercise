@@ -1,3 +1,15 @@
 .nav-link {
     color: orange; text-decoration: none
 }
+
+main {
+    max-width: 600px;
+}
+
+main {
+    margin-top: 24px;
+}
+
+main {
+    margin-left: auto;
+}
