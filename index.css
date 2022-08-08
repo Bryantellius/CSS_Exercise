@@ -29,3 +29,7 @@ section{
 .d-inline{
     display: inline;
 }
+
+.nav-link > ul{
+    list-style: none;
+}
