@@ -33,3 +33,8 @@ section{
 .nav-link > ul{
     list-style: none;
 }
+
+body{
+    background-color: #222222;
+}
+
