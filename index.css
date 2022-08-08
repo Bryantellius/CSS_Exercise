@@ -39,5 +39,9 @@ body{
 }
 
 #avatar{
-    width: 100px margin 32px, auto;
+    width: 100px;
+}
+
+#avatar{
+    margin: 32px auto;
 }
