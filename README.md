@@ -29,18 +29,19 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
-1. Create a **ruleset** in your `index.css` file that selects all elements with the `main` tag name
-2. Create a **declaration** in your new ruleset that changes the **max width** of the `main` elements to **600px**
-3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` elements to **24px**, to center the `main` elements between the left and right edges of the page (or their containing element).
-4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `main` elements to **auto**, to center the `main` elements between the left and right edges of the page (or their containing element).
+1. Create a **ruleset** in your `index.css` file that selects the element with the `main` tag name
+2. Create a **declaration** in your new ruleset that changes the **max width** of the `main` element to **600px**
+3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` element to **44px**, to space the `main` element further apart from the `header` and `footer` elements (or it's containing element).
+4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `main` element to **auto**, to center the `main` element between the left and right edges of the page (or it's containing element).
 
 ## Exercise 4
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Create a **ruleset** in your `index.css` file that selects all elements with the `section` tag name
-2. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `section` elements to **24px**, to center the `section` elements between the left and right edges of the page (or their containing element).
-3. Create a **declaration** in your new ruleset that changes the **padding left**, **padding right**, **padding top** and **padding bottom** of the `section` elements to **16px**, to give the `section` elements space between their content and border.
+2. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `section` elements to **44px**, to space the `section` elements apart from the top and bottom of neighboring elements.
+3. Create a **declaration** in your new ruleset that sets the **border** of the `section` elements to **3px** **dotted** **orange** to create a visible border around the `section` elements.
+4. Create a **declaration** in your new ruleset that changes the **padding left**, **padding right**, **padding top** and **padding bottom** of the `section` elements to **16px**, to give the `section` elements space between their content and border.
 
 ## Exercise 5
 
