@@ -1,0 +1,72 @@
+    
+    
+    
+    body{
+    margin: 0;
+     background-color: rgb(246, 43, 43)
+    font-family- Arial,sans-serif;
+    padding: 0;
+    font-size: 22px;
+    font-weight: 44px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+h1{
+    color: #ea3333;
+    font-size: 55px;
+}   
+.shadowed-text {
+    text-shadow: 2px 9px 4px (0, 0, 0.5);
+    text-shadow: color(srgb red rgb(64, 139, 64) rgb(54, 54, 135))
+
+
+}
+glowing-text {
+    font-size: 36px;
+    font-weight: bold;
+    color: #c2efbb; /* Text color */
+    text-shadow: 0 0 10px rgba(57, 185, 138, 0.5); /* Initial shadow effect */
+    animation: glow 1.5s ease-in-out infinite;
+  }
+  @keyframes glow {
+    0% {
+      text-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+    }
+    50% {
+      text-shadow: 0 0 20px rgba(0, 255, 26, 0.8);
+    }
+    100% {
+      text-shadow: 0 0 10px rgba(90, 100, 100, 0.5);
+    }
+
+
+.nav-link{
+    color: rgb(29, 119, 79);
+    text-decoration: none;
+    font-size: 33px;
+}
+main {
+    max-width: 601px;
+    width: 100%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    margin: 20px o;
+    padding: 16px;
+
+}
+#title {
+    font-size: 33px;
+    font-weight: 800px
+}
+.d-inline{
+    display: inline;
+}
+nav > ul {
+    list-style: none;
+}

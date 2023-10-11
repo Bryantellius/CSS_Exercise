@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <style>
+      @keyframes glow {
+        0% {
+          text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 0, 0, 0.8);
+        }
+        50% {
+          text-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 0, 0, 0.5);
+        }
+        100% {
+          text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+          background-color: rgba(255, 0, 0, 0.8);
+        }
+      }
+
+      .glowing-text {
+        font-size: 36px;
+        font-weight: bold;
+        color: #e12323;
+        animation: glow 1.5s ease-in-out infinite;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li class="d-inline">
+          <a class="nav-link" href="/Home">Super Hero Crochet!</a>
+        </li>
+        <li class="d-inline">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="d-line">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+        <li class="d-line">
+          <a class="nav-link" href="/about">How To</a>
+        </li>
+      </ul>
+    </nav>
+    <main>
+      <section>
+        <h1 class="glowing-text">WHO LIKES TO CROCHET?</h1>
+      </section>
+      <section>
+        <h1>Crochet Spiderman Everyone</h1>
+        <img src="Spiderman.jpg" alt="Author Headshot" />
+        <p>Made By: A Digital Creator</p>
+      </section>
+      <article>
+        <section>
+          <h2>53stitches</h2>
+          <p>Free Crochet Patterns</p>
+          <div>
+            <h3>Nerdy Amigurumi Dolls</h3>
+            <p>"www.53stitches.com"</p>
+          </div>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
+
